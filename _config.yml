@@ -27,7 +27,7 @@ links:
   - title: articles
     url: /articles
   - title: hire me
-    url: hire-me
+    url: /hire-me
 
 # Build settings
 markdown: kramdown
