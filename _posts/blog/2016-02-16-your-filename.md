@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-date: {}
+date: 2016-03-20T11:12:47.000Z
 categories: blog
 tags: code inspiration
 ---
