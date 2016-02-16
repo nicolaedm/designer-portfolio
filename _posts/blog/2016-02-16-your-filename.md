@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: 2015-03-20T11:12:47.000Z
 categories: blog
