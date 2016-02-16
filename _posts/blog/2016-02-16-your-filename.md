@@ -1,10 +1,11 @@
 ---
 published: true
 layout: post
-date: 2016-03-20T11:12:47.000Z
+date: {}
 categories: blog
 tags: code inspiration
 ---
+
 
 
 
