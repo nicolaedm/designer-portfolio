@@ -1,10 +1,12 @@
 ---
 published: true
 layout: post
-date: {}
+date: 
+  "Sun Feb 14 2016 00:00:00 GMT+0000 (GMT Standard Time)": null
 categories: blog
 tags: code inspiration
 ---
+
 
 
 
