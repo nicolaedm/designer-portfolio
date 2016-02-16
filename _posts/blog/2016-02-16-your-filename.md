@@ -1,6 +1,11 @@
 ---
 published: false
+layout: post
+date: 2015-03-20T11:12:47.000Z
+categories: blog
+tags: code inspiration
 ---
+
 
 ## a 2ed
 
