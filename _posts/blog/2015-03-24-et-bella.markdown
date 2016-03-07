@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Et bella
-date: {}
+date: "2014-04-18 11:30:00 +0800"
 categories: blog
 featured: true
 tags: inspiration
