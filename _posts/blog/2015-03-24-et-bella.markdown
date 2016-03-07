@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  "Et bella"
-date:   2015-03-24 11:12:47
+title: Et bella
+date: {}
 categories: blog
 featured: true
 tags: inspiration
+published: true
 ---
+
+1. item
+2. item
+3. item
+
 
 ## Clamant legebant novam grata igitur dixerat praestent
 
@@ -69,6 +75,3 @@ reliquit Aeolides, damnum leve est.
 Est ad relatus sua armatosque, est librat igne dicta. Hunc damnavit praeda
 suasit sagittas [linguis quaesitae terraque](http://seenly.com/). Iam cui
 septemflua partemque facto, moris.
-
-
-
